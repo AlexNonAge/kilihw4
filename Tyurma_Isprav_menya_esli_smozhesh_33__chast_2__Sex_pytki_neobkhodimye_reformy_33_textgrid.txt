@@ -1,0 +1,1240 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5897.102
+tiers? <exists>
+size = 6
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "@is1984f-text"
+        xmin = 0.0
+        xmax = 5897.102
+        intervals: size = 52
+        intervals [1]
+            xmin = 0.0
+            xmax = 3788.134
+            text = ""
+        intervals [2]
+            xmin = 3788.134
+            xmax = 3789.957
+            text = "расскажи мне лучше про свои гастроли"
+        intervals [3]
+            xmin = 3789.957
+            xmax = 3790.163
+            text = ""
+        intervals [4]
+            xmin = 3790.163
+            xmax = 3790.986
+            text = "ээ"
+        intervals [5]
+            xmin = 3790.986
+            xmax = 3791.456
+            text = ""
+        intervals [6]
+            xmin = 3791.456
+            xmax = 3793.045
+            text = "с которых ты сейчас вернулась"
+        intervals [7]
+            xmin = 3793.045
+            xmax = 3799.103
+            text = ""
+        intervals [8]
+            xmin = 3799.103
+            xmax = 3799.515
+            text = "так"
+        intervals [9]
+            xmin = 3799.515
+            xmax = 3806.868
+            text = ""
+        intervals [10]
+            xmin = 3806.868
+            xmax = 3807.397
+            text = "так"
+        intervals [11]
+            xmin = 3807.397
+            xmax = 3809.098
+            text = ""
+        intervals [12]
+            xmin = 3809.098
+            xmax = 3809.568
+            text = "мхм"
+        intervals [13]
+            xmin = 3809.568
+            xmax = 3814.332
+            text = ""
+        intervals [14]
+            xmin = 3814.332
+            xmax = 3814.744
+            text = "мхм"
+        intervals [15]
+            xmin = 3814.744
+            xmax = 3836.182
+            text = ""
+        intervals [16]
+            xmin = 3836.182
+            xmax = 3836.711
+            text = "ааа"
+        intervals [17]
+            xmin = 3836.711
+            xmax = 3838.351
+            text = ""
+        intervals [18]
+            xmin = 3838.351
+            xmax = 3840.351
+            text = "например а что делают ребята после этого"
+        intervals [19]
+            xmin = 3840.351
+            xmax = 3840.469
+            text = ""
+        intervals [20]
+            xmin = 3840.469
+            xmax = 3841.586
+            text = "какие классные"
+        intervals [21]
+            xmin = 3841.586
+            xmax = 3843.174
+            text = ""
+        intervals [22]
+            xmin = 3843.174
+            xmax = 3843.645
+            text = "акции"
+        intervals [23]
+            xmin = 3843.645
+            xmax = 3880.223
+            text = ""
+        intervals [24]
+            xmin = 3880.223
+            xmax = 3881.047
+            text = "обалдеть"
+        intervals [25]
+            xmin = 3881.047
+            xmax = 3881.635
+            text = ""
+        intervals [26]
+            xmin = 3881.635
+            xmax = 3882.4
+            text = "обалдеть"
+        intervals [27]
+            xmin = 3882.4
+            xmax = 3883.429
+            text = ""
+        intervals [28]
+            xmin = 3883.429
+            xmax = 3883.929
+            text = "зач"
+        intervals [29]
+            xmin = 3883.929
+            xmax = 3886.165
+            text = "зачем это нужно людям я не понимаю"
+        intervals [30]
+            xmin = 3886.165
+            xmax = 3886.459
+            text = ""
+        intervals [31]
+            xmin = 3886.459
+            xmax = 3887.694
+            text = "зачем им нужен русский?"
+        intervals [32]
+            xmin = 3887.694
+            xmax = 3894.654
+            text = ""
+        intervals [33]
+            xmin = 3894.654
+            xmax = 3895.301
+            text = "ммм"
+        intervals [34]
+            xmin = 3895.301
+            xmax = 3898.977
+            text = ""
+        intervals [35]
+            xmin = 3898.977
+            xmax = 3899.624
+            text = "да"
+        intervals [36]
+            xmin = 3899.624
+            xmax = 3900.624
+            text = ""
+        intervals [37]
+            xmin = 3900.624
+            xmax = 3901.035
+            text = "ээ"
+        intervals [38]
+            xmin = 3901.035
+            xmax = 3937.933
+            text = ""
+        intervals [39]
+            xmin = 3937.933
+            xmax = 3939.286
+            text = "что значит иначе?"
+        intervals [40]
+            xmin = 3939.286
+            xmax = 3957.755
+            text = ""
+        intervals [41]
+            xmin = 3957.755
+            xmax = 3958.285
+            text = "м"
+        intervals [42]
+            xmin = 3958.285
+            xmax = 3965.431
+            text = ""
+        intervals [43]
+            xmin = 3965.431
+            xmax = 3968.137
+            text = "что ты чувствуешь когда перешагиваешь этот порог?"
+        intervals [44]
+            xmin = 3968.137
+            xmax = 3976.637
+            text = ""
+        intervals [45]
+            xmin = 3976.637
+            xmax = 3977.107
+            text = "да"
+        intervals [46]
+            xmin = 3977.107
+            xmax = 3993.989
+            text = ""
+        intervals [47]
+            xmin = 3993.989
+            xmax = 3996.813
+            text = "тебе было унизительно выходить по амнистии или что?"
+        intervals [48]
+            xmin = 3996.813
+            xmax = 4024.372
+            text = ""
+        intervals [49]
+            xmin = 4024.372
+            xmax = 4025.078
+            text = "пять женщин?"
+        intervals [50]
+            xmin = 4025.078
+            xmax = 4028.519
+            text = ""
+        intervals [51]
+            xmin = 4028.519
+            xmax = 4029.519
+            text = "двое ты и Надя"
+        intervals [52]
+            xmin = 4029.519
+            xmax = 5897.102
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "@is1984f-gestures"
+        xmin = 0.0
+        xmax = 5897.102
+        intervals: size = 1
+        intervals [1]
+            xmin = 0.0
+            xmax = 5897.102
+            text = ""
+    item[3]:
+        class = "IntervalTier"
+        name = "@is1984f-gestMeaning"
+        xmin = 0.0
+        xmax = 5897.102
+        intervals: size = 1
+        intervals [1]
+            xmin = 0.0
+            xmax = 5897.102
+            text = ""
+    item[4]:
+        class = "IntervalTier"
+        name = "@mva1988f-text"
+        xmin = 0.0
+        xmax = 5897.102
+        intervals: size = 243
+        intervals [1]
+            xmin = 0.0
+            xmax = 3793.074
+            text = ""
+        intervals [2]
+            xmin = 3793.074
+            xmax = 3796.074
+            text = "ну они достаточно большие были то есть мы начали"
+        intervals [3]
+            xmin = 3796.074
+            xmax = 3797.103
+            text = ""
+        intervals [4]
+            xmin = 3797.103
+            xmax = 3798.045
+            text = "из"
+        intervals [5]
+            xmin = 3798.045
+            xmax = 3798.221
+            text = ""
+        intervals [6]
+            xmin = 3798.221
+            xmax = 3799.045
+            text = "Чехии"
+        intervals [7]
+            xmin = 3799.045
+            xmax = 3799.545
+            text = ""
+        intervals [8]
+            xmin = 3799.545
+            xmax = 3802.603
+            text = "проехали Голландию Германию Швецию"
+        intervals [9]
+            xmin = 3802.603
+            xmax = 3803.545
+            text = ""
+        intervals [10]
+            xmin = 3803.545
+            xmax = 3804.545
+            text = "часть Испании"
+        intervals [11]
+            xmin = 3804.545
+            xmax = 3804.868
+            text = ""
+        intervals [12]
+            xmin = 3804.868
+            xmax = 3806.515
+            text = "один город Италии"
+        intervals [13]
+            xmin = 3806.515
+            xmax = 3808.422
+            text = ""
+        intervals [14]
+            xmin = 3808.422
+            xmax = 3808.951
+            text = "два"
+        intervals [15]
+            xmin = 3808.951
+            xmax = 3809.215
+            text = ""
+        intervals [16]
+            xmin = 3809.215
+            xmax = 3809.686
+            text = "ммм"
+        intervals [17]
+            xmin = 3809.686
+            xmax = 3809.744
+            text = ""
+        intervals [18]
+            xmin = 3809.744
+            xmax = 3812.803
+            text = "потом полетели в Новую Зеландию потом в Австралию"
+        intervals [19]
+            xmin = 3812.803
+            xmax = 3812.92
+            text = ""
+        intervals [20]
+            xmin = 3812.92
+            xmax = 3814.214
+            text = "потом в Черногорию"
+        intervals [21]
+            xmin = 3814.214
+            xmax = 3814.773
+            text = ""
+        intervals [22]
+            xmin = 3814.773
+            xmax = 3815.95
+            text = "потом в Сербию потом всё"
+        intervals [23]
+            xmin = 3815.95
+            xmax = 3816.185
+            text = ""
+        intervals [24]
+            xmin = 3816.185
+            xmax = 3817.479
+            text = "после там каждого выступления"
+        intervals [25]
+            xmin = 3817.479
+            xmax = 3817.714
+            text = ""
+        intervals [26]
+            xmin = 3817.714
+            xmax = 3818.126
+            text = "там"
+        intervals [27]
+            xmin = 3818.126
+            xmax = 3818.391
+            text = ""
+        intervals [28]
+            xmin = 3818.391
+            xmax = 3820.685
+            text = "супер большая очередь ты сидишь подписываешь соответственно"
+        intervals [29]
+            xmin = 3820.685
+            xmax = 3821.126
+            text = ""
+        intervals [30]
+            xmin = 3821.126
+            xmax = 3822.42
+            text = "с каждым человеком кто подходит"
+        intervals [31]
+            xmin = 3822.42
+            xmax = 3822.832
+            text = ""
+        intervals [32]
+            xmin = 3822.832
+            xmax = 3824.655
+            text = "общаешься и очень много людей они "
+        intervals [33]
+            xmin = 3824.655
+            xmax = 3825.213
+            text = ""
+        intervals [34]
+            xmin = 3825.213
+            xmax = 3825.566
+            text = "а"
+        intervals [35]
+            xmin = 3825.566
+            xmax = 3828.801
+            text = "про книжку там слышали до всякого концерта и купили"
+        intervals [36]
+            xmin = 3828.801
+            xmax = 3829.36
+            text = ""
+        intervals [37]
+            xmin = 3829.36
+            xmax = 3831.124
+            text = "по интернету и уже прочли"
+        intervals [38]
+            xmin = 3831.124
+            xmax = 3831.242
+            text = ""
+        intervals [39]
+            xmin = 3831.242
+            xmax = 3833.477
+            text = "для меня самый классный ответ это мы прочли"
+        intervals [40]
+            xmin = 3833.477
+            xmax = 3833.712
+            text = ""
+        intervals [41]
+            xmin = 3833.712
+            xmax = 3835.653
+            text = "и мы тоже вот вот какие-то штуки сделали"
+        intervals [42]
+            xmin = 3835.653
+            xmax = 3836.917
+            text = ""
+        intervals [43]
+            xmin = 3836.917
+            xmax = 3837.211
+            text = "да"
+        intervals [44]
+            xmin = 3837.211
+            xmax = 3837.358
+            text = ""
+        intervals [45]
+            xmin = 3837.358
+            xmax = 3838.241
+            text = "ну то есть"
+        intervals [46]
+            xmin = 3838.241
+            xmax = 3842.615
+            text = ""
+        intervals [47]
+            xmin = 3842.615
+            xmax = 3843.027
+            text = "ну"
+        intervals [48]
+            xmin = 3843.027
+            xmax = 3843.115
+            text = ""
+        intervals [49]
+            xmin = 3843.115
+            xmax = 3846.938
+            text = "разные инициативы начинают студенческие"
+        intervals [50]
+            xmin = 3846.938
+            xmax = 3847.438
+            text = ""
+        intervals [51]
+            xmin = 3847.438
+            xmax = 3849.261
+            text = "группы организовывают"
+        intervals [52]
+            xmin = 3849.261
+            xmax = 3849.636
+            text = ""
+        intervals [53]
+            xmin = 3849.636
+            xmax = 3852.636
+            text = "как музыкальные вот ну то есть кто-то там решил"
+        intervals [54]
+            xmin = 3852.636
+            xmax = 3853.313
+            text = ""
+        intervals [55]
+            xmin = 3853.313
+            xmax = 3853.96
+            text = "создать"
+        intervals [56]
+            xmin = 3853.96
+            xmax = 3855.342
+            text = ""
+        intervals [57]
+            xmin = 3855.342
+            xmax = 3856.813
+            text = "тоже панк-группу"
+        intervals [58]
+            xmin = 3856.813
+            xmax = 3857.195
+            text = ""
+        intervals [59]
+            xmin = 3857.195
+            xmax = 3861.312
+            text = "то есть понятно что в любой там европейской стране это совершенно другой контекст и"
+        intervals [60]
+            xmin = 3861.312
+            xmax = 3861.665
+            text = ""
+        intervals [61]
+            xmin = 3861.665
+            xmax = 3862.959
+            text = "там решение"
+        intervals [62]
+            xmin = 3862.959
+            xmax = 3863.253
+            text = ""
+        intervals [63]
+            xmin = 3863.253
+            xmax = 3868.077
+            text = "создать феминистскую панк-группу это не какое-то такое радикальное решение но всё равно"
+        intervals [64]
+            xmin = 3868.077
+            xmax = 3868.724
+            text = ""
+        intervals [65]
+            xmin = 3868.724
+            xmax = 3869.43
+            text = "это"
+        intervals [66]
+            xmin = 3869.43
+            xmax = 3869.812
+            text = ""
+        intervals [67]
+            xmin = 3869.812
+            xmax = 3870.635
+            text = "очень клёво"
+        intervals [68]
+            xmin = 3870.635
+            xmax = 3870.988
+            text = ""
+        intervals [69]
+            xmin = 3870.988
+            xmax = 3873.4
+            text = "вот это меня поазило особенно в штатах они такие"
+        intervals [70]
+            xmin = 3873.4
+            xmax = 3874.488
+            text = ""
+        intervals [71]
+            xmin = 3874.488
+            xmax = 3877.371
+            text = "если бы не Пусси Райот мы бы никогда не начали изучать русский язык"
+        intervals [72]
+            xmin = 3877.371
+            xmax = 3878.517
+            text = ""
+        intervals [73]
+            xmin = 3878.517
+            xmax = 3879.282
+            text = "оч много"
+        intervals [74]
+            xmin = 3879.282
+            xmax = 3879.664
+            text = ""
+        intervals [75]
+            xmin = 3879.664
+            xmax = 3880.076
+            text = "вот"
+        intervals [76]
+            xmin = 3880.076
+            xmax = 3882.194
+            text = ""
+        intervals [77]
+            xmin = 3882.194
+            xmax = 3883.194
+            text = "я сама удивилась"
+        intervals [78]
+            xmin = 3883.194
+            xmax = 3883.4
+            text = ""
+        intervals [79]
+            xmin = 3883.4
+            xmax = 3883.694
+            text = "вот"
+        intervals [80]
+            xmin = 3883.694
+            xmax = 3888.096
+            text = ""
+        intervals [81]
+            xmin = 3888.096
+            xmax = 3894.625
+            text = "им интересно им интересен контекст им интерестны вот ну то есть контекст в котором происходят такие политические события"
+        intervals [82]
+            xmin = 3894.625
+            xmax = 3895.271
+            text = ""
+        intervals [83]
+            xmin = 3895.271
+            xmax = 3896.683
+            text = "потому что для них это"
+        intervals [84]
+            xmin = 3896.683
+            xmax = 3897.154
+            text = ""
+        intervals [85]
+            xmin = 3897.154
+            xmax = 3898.801
+            text = "ну просто глава антиутопии"
+        intervals [86]
+            xmin = 3898.801
+            xmax = 3899.712
+            text = ""
+        intervals [87]
+            xmin = 3899.712
+            xmax = 3900.3
+            text = "иии"
+        intervals [88]
+            xmin = 3900.3
+            xmax = 3900.653
+            text = ""
+        intervals [89]
+            xmin = 3900.653
+            xmax = 3901.653
+            text = "а для нас это реальность"
+        intervals [90]
+            xmin = 3901.653
+            xmax = 3904.17
+            text = ""
+        intervals [91]
+            xmin = 3904.17
+            xmax = 3907.582
+            text = "мы Пусси Райот вышли на площадь с желанием другой истории"
+        intervals [92]
+            xmin = 3907.582
+            xmax = 3908.17
+            text = ""
+        intervals [93]
+            xmin = 3908.17
+            xmax = 3912.582
+            text = "потому что та в которой президент превращался в императора нас не устраивала"
+        intervals [94]
+            xmin = 3912.582
+            xmax = 3913.258
+            text = ""
+        intervals [95]
+            xmin = 3913.258
+            xmax = 3914.553
+            text = "нас ттошнило от лжи"
+        intervals [96]
+            xmin = 3914.553
+            xmax = 3915.023
+            text = ""
+        intervals [97]
+            xmin = 3915.023
+            xmax = 3917.67
+            text = "от несменяемой картинки в телевизоре"
+        intervals [98]
+            xmin = 3917.67
+            xmax = 3917.993
+            text = ""
+        intervals [99]
+            xmin = 3917.993
+            xmax = 3921.581
+            text = "бесконечного сюжета про долгую счастливую жизнь"
+        intervals [100]
+            xmin = 3921.581
+            xmax = 3922.022
+            text = ""
+        intervals [101]
+            xmin = 3922.022
+            xmax = 3924.669
+            text = "за которой в реальности не было ничего"
+        intervals [102]
+            xmin = 3924.669
+            xmax = 3925.053
+            text = ""
+        intervals [103]
+            xmin = 3925.053
+            xmax = 3927.7
+            text = "ну существует наверное некоторый отпечаток"
+        intervals [104]
+            xmin = 3927.7
+            xmax = 3927.905
+            text = ""
+        intervals [105]
+            xmin = 3927.905
+            xmax = 3929.199
+            text = "ммм"
+        intervals [106]
+            xmin = 3929.199
+            xmax = 3931.435
+            text = "особенно если ты там ну типо только вышел"
+        intervals [107]
+            xmin = 3931.435
+            xmax = 3931.67
+            text = ""
+        intervals [108]
+            xmin = 3931.67
+            xmax = 3932.199
+            text = "вот"
+        intervals [109]
+            xmin = 3932.199
+            xmax = 3932.346
+            text = ""
+        intervals [110]
+            xmin = 3932.346
+            xmax = 3933.287
+            text = "ты"
+        intervals [111]
+            xmin = 3933.287
+            xmax = 3933.669
+            text = ""
+        intervals [112]
+            xmin = 3933.669
+            xmax = 3935.492
+            text = "общаешься с людьми иначе"
+        intervals [113]
+            xmin = 3935.492
+            xmax = 3936.051
+            text = ""
+        intervals [114]
+            xmin = 3936.051
+            xmax = 3937.58
+            text = "ну то естть я себя на этом ловила"
+        intervals [115]
+            xmin = 3937.58
+            xmax = 3940.256
+            text = ""
+        intervals [116]
+            xmin = 3940.256
+            xmax = 3942.433
+            text = "если тебе кто-то что-тот говорит"
+        intervals [117]
+            xmin = 3942.433
+            xmax = 3942.697
+            text = ""
+        intervals [118]
+            xmin = 3942.697
+            xmax = 3943.815
+            text = "и даже"
+        intervals [119]
+            xmin = 3943.815
+            xmax = 3944.315
+            text = ""
+        intervals [120]
+            xmin = 3944.315
+            xmax = 3945.256
+            text = "хорошее"
+        intervals [121]
+            xmin = 3945.256
+            xmax = 3945.314
+            text = ""
+        intervals [122]
+            xmin = 3945.314
+            xmax = 3946.432
+            text = "ты начинаешь"
+        intervals [123]
+            xmin = 3946.432
+            xmax = 3947.226
+            text = ""
+        intervals [124]
+            xmin = 3947.226
+            xmax = 3949.579
+            text = "первый вопрос который ты себе задаёшь это вообще зачем это он сказал"
+        intervals [125]
+            xmin = 3949.579
+            xmax = 3951.343
+            text = ""
+        intervals [126]
+            xmin = 3951.343
+            xmax = 3955.049
+            text = "ну то есть ему вообще то есть чего он вообще хочет-то на самом деле"
+        intervals [127]
+            xmin = 3955.049
+            xmax = 3955.373
+            text = ""
+        intervals [128]
+            xmin = 3955.373
+            xmax = 3957.667
+            text = "потому что лицемерия очень много"
+        intervals [129]
+            xmin = 3957.667
+            xmax = 3958.432
+            text = ""
+        intervals [130]
+            xmin = 3958.432
+            xmax = 3961.902
+            text = "ну то есть оно просто пронизывает всё общение"
+        intervals [131]
+            xmin = 3961.902
+            xmax = 3962.344
+            text = ""
+        intervals [132]
+            xmin = 3962.344
+            xmax = 3963.108
+            text = "ааа"
+        intervals [133]
+            xmin = 3963.108
+            xmax = 3963.255
+            text = ""
+        intervals [134]
+            xmin = 3963.255
+            xmax = 3965.02
+            text = "женской исправительной колонии"
+        intervals [135]
+            xmin = 3965.02
+            xmax = 3968.549
+            text = ""
+        intervals [136]
+            xmin = 3968.549
+            xmax = 3970.019
+            text = "а я не перешагивала никакой порог"
+        intervals [137]
+            xmin = 3970.019
+            xmax = 3970.402
+            text = ""
+        intervals [138]
+            xmin = 3970.402
+            xmax = 3971.284
+            text = "в том-то и дело"
+        intervals [139]
+            xmin = 3971.284
+            xmax = 3971.519
+            text = ""
+        intervals [140]
+            xmin = 3971.519
+            xmax = 3973.99
+            text = "со мной смотри со мной произошла очень смешная история то есть"
+        intervals [141]
+            xmin = 3973.99
+            xmax = 3974.931
+            text = ""
+        intervals [142]
+            xmin = 3974.931
+            xmax = 3976.695
+            text = "Путин подписал закон об амнистии"
+        intervals [143]
+            xmin = 3976.695
+            xmax = 3977.225
+            text = ""
+        intervals [144]
+            xmin = 3977.225
+            xmax = 3979.107
+            text = "я не хотела выходить по этой амнистии"
+        intervals [145]
+            xmin = 3979.107
+            xmax = 3979.401
+            text = ""
+        intervals [146]
+            xmin = 3979.401
+            xmax = 3980.343
+            text = "поэтому"
+        intervals [147]
+            xmin = 3980.343
+            xmax = 3980.46
+            text = ""
+        intervals [148]
+            xmin = 3980.46
+            xmax = 3986.519
+            text = "у нас существовали такие бега как бы меня от сотрудников которые пытались сделать так чтобы я поставила эту подпись"
+        intervals [149]
+            xmin = 3986.519
+            xmax = 3986.96
+            text = ""
+        intervals [150]
+            xmin = 3986.96
+            xmax = 3988.724
+            text = "я её не ставила я"
+        intervals [151]
+            xmin = 3988.724
+            xmax = 3988.901
+            text = ""
+        intervals [152]
+            xmin = 3988.901
+            xmax = 3993.783
+            text = "как только я понимала что они сейчас придут и принесут бумаги я оказывалась в каком-нибудь другом месте"
+        intervals [153]
+            xmin = 3993.783
+            xmax = 3997.519
+            text = ""
+        intervals [154]
+            xmin = 3997.519
+            xmax = 3999.225
+            text = "я просто не считаю что"
+        intervals [155]
+            xmin = 3999.225
+            xmax = 4000.137
+            text = ""
+        intervals [156]
+            xmin = 4000.137
+            xmax = 4002.137
+            text = "за два месяца до конца срока"
+        intervals [157]
+            xmin = 4002.137
+            xmax = 4002.608
+            text = ""
+        intervals [158]
+            xmin = 4002.608
+            xmax = 4008.314
+            text = "с помпой перед олимпийскими играми и попытками сохранить своё лицо перед Западом"
+        intervals [159]
+            xmin = 4008.314
+            xmax = 4008.814
+            text = ""
+        intervals [160]
+            xmin = 4008.814
+            xmax = 4009.638
+            text = "амм"
+        intervals [161]
+            xmin = 4009.638
+            xmax = 4010.108
+            text = ""
+        intervals [162]
+            xmin = 4010.108
+            xmax = 4010.932
+            text = "можно"
+        intervals [163]
+            xmin = 4010.932
+            xmax = 4011.344
+            text = ""
+        intervals [164]
+            xmin = 4011.344
+            xmax = 4013.108
+            text = "там писать какую-то амнистию"
+        intervals [165]
+            xmin = 4013.108
+            xmax = 4013.403
+            text = ""
+        intervals [166]
+            xmin = 4013.403
+            xmax = 4016.52
+            text = "амнистия блин для женщин-заключённых с детьми"
+        intervals [167]
+            xmin = 4016.52
+            xmax = 4017.196
+            text = ""
+        intervals [168]
+            xmin = 4017.196
+            xmax = 4020.196
+            text = "женщин-заключённых по всей России сидят тысячи"
+        intervals [169]
+            xmin = 4020.196
+            xmax = 4020.99
+            text = ""
+        intervals [170]
+            xmin = 4020.99
+            xmax = 4022.873
+            text = "знаешь сколько вышло по этой амнистии?"
+        intervals [171]
+            xmin = 4022.873
+            xmax = 4022.99
+            text = ""
+        intervals [172]
+            xmin = 4022.99
+            xmax = 4023.519
+            text = "пять!"
+        intervals [173]
+            xmin = 4023.519
+            xmax = 4025.078
+            text = ""
+        intervals [174]
+            xmin = 4025.078
+            xmax = 4025.666
+            text = "пять!"
+        intervals [175]
+            xmin = 4025.666
+            xmax = 4025.843
+            text = ""
+        intervals [176]
+            xmin = 4025.843
+            xmax = 4028.49
+            text = "двоим из которых это нахер не не было простите надо"
+        intervals [177]
+            xmin = 4028.49
+            xmax = 4030.078
+            text = ""
+        intervals [178]
+            xmin = 4030.078
+            xmax = 4031.196
+            text = "двое я и Надя"
+        intervals [179]
+            xmin = 4031.196
+            xmax = 4031.519
+            text = ""
+        intervals [180]
+            xmin = 4031.519
+            xmax = 4032.461
+            text = "поэтому"
+        intervals [181]
+            xmin = 4032.461
+            xmax = 4032.637
+            text = ""
+        intervals [182]
+            xmin = 4032.637
+            xmax = 4035.284
+            text = "в какой-то момент мне сказали что приехал адвокат"
+        intervals [183]
+            xmin = 4035.284
+            xmax = 4035.666
+            text = ""
+        intervals [184]
+            xmin = 4035.666
+            xmax = 4036.725
+            text = "привели в комнату"
+        intervals [185]
+            xmin = 4036.725
+            xmax = 4037.313
+            text = ""
+        intervals [186]
+            xmin = 4037.313
+            xmax = 4038.724
+            text = "а там были все мои вещи"
+        intervals [187]
+            xmin = 4038.724
+            xmax = 4039.988
+            text = ""
+        intervals [188]
+            xmin = 4039.988
+            xmax = 4040.988
+            text = "потом эти вещи"
+        intervals [189]
+            xmin = 4040.988
+            xmax = 4041.488
+            text = ""
+        intervals [190]
+            xmin = 4041.488
+            xmax = 4042.253
+            text = "ммм"
+        intervals [191]
+            xmin = 4042.253
+            xmax = 4042.87
+            text = ""
+        intervals [192]
+            xmin = 4042.87
+            xmax = 4044.87
+            text = "из этой комнаты вынесли сотрудники"
+        intervals [193]
+            xmin = 4044.87
+            xmax = 4046.282
+            text = ""
+        intervals [194]
+            xmin = 4046.282
+            xmax = 4047.988
+            text = "и есть между"
+        intervals [195]
+            xmin = 4047.988
+            xmax = 4048.194
+            text = ""
+        intervals [196]
+            xmin = 4048.194
+            xmax = 4049.076
+            text = "воротами в зону"
+        intervals [197]
+            xmin = 4049.076
+            xmax = 4049.812
+            text = ""
+        intervals [198]
+            xmin = 4049.812
+            xmax = 4051.4
+            text = "и воротами на волю отсек"
+        intervals [199]
+            xmin = 4051.4
+            xmax = 4051.9
+            text = ""
+        intervals [200]
+            xmin = 4051.9
+            xmax = 4052.959
+            text = "называется шлюз"
+        intervals [201]
+            xmin = 4052.959
+            xmax = 4053.194
+            text = ""
+        intervals [202]
+            xmin = 4053.194
+            xmax = 4054.959
+            text = "такой грязный квадрат пять на пять"
+        intervals [203]
+            xmin = 4054.959
+            xmax = 4055.429
+            text = ""
+        intervals [204]
+            xmin = 4055.429
+            xmax = 4055.958
+            text = "мм"
+        intervals [205]
+            xmin = 4055.958
+            xmax = 4056.105
+            text = ""
+        intervals [206]
+            xmin = 4056.105
+            xmax = 4057.634
+            text = "в который въезжает автозак"
+        intervals [207]
+            xmin = 4057.634
+            xmax = 4058.457
+            text = ""
+        intervals [208]
+            xmin = 4058.457
+            xmax = 4059.457
+            text = "иии"
+        intervals [209]
+            xmin = 4059.457
+            xmax = 4060.133
+            text = ""
+        intervals [210]
+            xmin = 4060.133
+            xmax = 4061.074
+            text = "где разгружают"
+        intervals [211]
+            xmin = 4061.074
+            xmax = 4062.897
+            text = ""
+        intervals [212]
+            xmin = 4062.897
+            xmax = 4063.78
+            text = "заключённых"
+        intervals [213]
+            xmin = 4063.78
+            xmax = 4064.103
+            text = ""
+        intervals [214]
+            xmin = 4064.103
+            xmax = 4068.22
+            text = "хотя мне и не нравится это выражение вот в этом шлюзе меня ждала чёрная волга"
+        intervals [215]
+            xmin = 4068.22
+            xmax = 4069.455
+            text = ""
+        intervals [216]
+            xmin = 4069.455
+            xmax = 4071.514
+            text = "в эту чёрную волгу погрузили мои сумки"
+        intervals [217]
+            xmin = 4071.514
+            xmax = 4072.602
+            text = ""
+        intervals [218]
+            xmin = 4072.602
+            xmax = 4074.013
+            text = "посадили туда меня"
+        intervals [219]
+            xmin = 4074.013
+            xmax = 4075.248
+            text = ""
+        intervals [220]
+            xmin = 4075.248
+            xmax = 4076.425
+            text = "открыли ворота"
+        intervals [221]
+            xmin = 4076.425
+            xmax = 4077.777
+            text = ""
+        intervals [222]
+            xmin = 4077.777
+            xmax = 4078.718
+            text = "и мы поехали"
+        intervals [223]
+            xmin = 4078.718
+            xmax = 4078.894
+            text = ""
+        intervals [224]
+            xmin = 4078.894
+            xmax = 4080.718
+            text = "вместе с начальником отряда"
+        intervals [225]
+            xmin = 4080.718
+            xmax = 4081.453
+            text = ""
+        intervals [226]
+            xmin = 4081.453
+            xmax = 4082.571
+            text = "до вокзала"
+        intervals [227]
+            xmin = 4082.571
+            xmax = 4083.953
+            text = ""
+        intervals [228]
+            xmin = 4083.953
+            xmax = 4085.012
+            text = "Нижнего Новгорода"
+        intervals [229]
+            xmin = 4085.012
+            xmax = 4086.717
+            text = ""
+        intervals [230]
+            xmin = 4086.717
+            xmax = 4088.6
+            text = "вот как-то так у меня всё это было"
+        intervals [231]
+            xmin = 4088.6
+            xmax = 4088.893
+            text = ""
+        intervals [232]
+            xmin = 4088.893
+            xmax = 4090.246
+            text = "что я чувствовала?ну"
+        intervals [233]
+            xmin = 4090.246
+            xmax = 4090.393
+            text = ""
+        intervals [234]
+            xmin = 4090.393
+            xmax = 4093.098
+            text = "я думаю что тоже поняла что это достаточно смешно"
+        intervals [235]
+            xmin = 4093.098
+            xmax = 4093.274
+            text = ""
+        intervals [236]
+            xmin = 4093.274
+            xmax = 4094.039
+            text = "я смеялась"
+        intervals [237]
+            xmin = 4094.039
+            xmax = 4095.009
+            text = ""
+        intervals [238]
+            xmin = 4095.009
+            xmax = 4095.597
+            text = "ааа"
+        intervals [239]
+            xmin = 4095.597
+            xmax = 4095.891
+            text = ""
+        intervals [240]
+            xmin = 4095.891
+            xmax = 4096.48
+            text = "я"
+        intervals [241]
+            xmin = 4096.48
+            xmax = 4099.656
+            text = ""
+        intervals [242]
+            xmin = 4099.656
+            xmax = 4101.479
+            text = "да ничего я не чувствовала я просто ехала"
+        intervals [243]
+            xmin = 4101.479
+            xmax = 5897.102
+            text = ""
+    item[5]:
+        class = "IntervalTier"
+        name = "@mva1988f-gestures"
+        xmin = 0.0
+        xmax = 5897.102
+        intervals: size = 1
+        intervals [1]
+            xmin = 0.0
+            xmax = 5897.102
+            text = ""
+    item[6]:
+        class = "IntervalTier"
+        name = "@mva1988f-gestMeaning"
+        xmin = 0.0
+        xmax = 5897.102
+        intervals: size = 1
+        intervals [1]
+            xmin = 0.0
+            xmax = 5897.102
+            text = ""
